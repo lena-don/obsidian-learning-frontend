@@ -1,0 +1,14 @@
+2026-09-06T18:01:47.744Z [INFO] plugin loaded {"version":"2.0.1"}
+2026-09-08T09:36:46.486Z [INFO] plugin loaded {"version":"2.0.1"}
+2026-09-08T11:14:39.910Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-09-08T11:59:19.617Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-09-09T08:08:19.713Z [INFO] plugin loaded {"version":"2.0.1"}
+2026-09-14T08:12:07.411Z [INFO] plugin loaded {"version":"2.0.1"}
+2026-09-14T08:15:57.445Z [WARN] refreshActiveNoteStatus failed {"path":"1. Учебные темы/3. Как работает веб/3.0.1..md","error":"ENOENT: no such file or directory, open '/Users/elenadonskikh/Documents/Obsidian/Learning 2026 DIT/1. Учебные темы/3. Как работает веб/3.0.1. Клиент.md'"}
+2026-09-14T08:16:10.234Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-09-14T08:16:15.449Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-09-14T08:25:31.554Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-09-16T07:31:23.121Z [INFO] plugin loaded {"version":"2.0.1"}
+2026-09-18T07:04:28.666Z [INFO] plugin loaded {"version":"2.0.1"}
+2026-09-20T20:05:13.872Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-09-20T20:30:48.338Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
