@@ -11,6 +11,8 @@ tags:
 
 Инфа  на [Хекслет](https://ru.hexlet.io/blog/posts/shell-chto-eto-takoe-i-zachem-on-nuzhen).
 
+См также: [[CLI интерфейс командной строки]]
+
 По умолчанию используется **22-й порт**.
 
 #### Главные функции Shell
