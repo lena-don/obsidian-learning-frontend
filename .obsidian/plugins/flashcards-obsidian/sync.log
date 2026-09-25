@@ -13,3 +13,4 @@
 2026-09-20T20:05:13.872Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
 2026-09-20T20:30:48.338Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
 2026-09-22T14:50:50.139Z [ERROR] dispatch failed {"target":"current","error":"Cannot reach AnkiConnect at http://127.0.0.1:8765. Start Anki, confirm the AnkiConnect add-on is installed, and try again."}
+2026-09-24T12:14:52.415Z [INFO] plugin loaded {"version":"2.0.1"}
